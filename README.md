@@ -6,7 +6,7 @@
 - [[02/09/2011] Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
 - [[30/03/2006] A word on scalability](https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 - [[01/08/2017] Distributed Systems in One Lesson](https://youtu.be/Y6Ev8GIlbxc)
-- [[29/11/2017] AWS re:Invent 2017](Scaling Up to Your First 10 Million Users](https://youtu.be/w95murBkYmU)
+- [[29/11/2017] AWS re:Invent 2017 - Scaling Up to Your First 10 Million Users](https://youtu.be/w95murBkYmU)
 - [[12/05/2010] Scalability, Availability & Stability Patterns](https://www.slideshare.net/jboner/scalability-availability-stability-patterns/196)
 - [[ - ] Understanding latency vs. throughput](https://community.cadence.com/cadence_blogs_8/b/sd/posts/understanding-latency-vs-throughput)
 - [[14/08/2014] CAP Theorem - Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
@@ -14,7 +14,7 @@
 - [[ - ] The CAP F.A.Q](https://github.com/henryr/cap-faq)
 - [[ - ] DNS Load Balancing](https://www.nginx.com/resources/glossary/dns-load-balancing/)
 - [[ - ] What is Layer 4 Load Balancing?](https://www.nginx.com/resources/glossary/layer-4-load-balancing/)
-- [[10/06/2015] Inside NGINX](How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
+- [[10/06/2015] Inside NGINX - How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 - [[25/05/2008] HAProxy - Architecture Guide](http://www.haproxy.org/download/1.2/doc/architecture.txt)
 - [[ - ] Reverse Proxy vs. Load Balancer](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)
 - [[16/02/2013] Introduction to Apache Zookeeper](https://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper)
@@ -26,10 +26,11 @@
 - [[ - ] Software Engineering Advice from Building Large-Scale Distributed Systems (Google)](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
 - [[ - ] Designs, Lessons and Advice from Building Large Distributed Systems (Google)](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 - [[ - ] CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://youtu.be/-W9F__D3oY4)
+- [[20/09/2017] Web Scalability 101 - Database và Microservices](https://techtalk.vn/blog/posts/web-scalability-101-database-va-microservices)
 
 ## Interview
-- [14/02/2016] Crack the System Design Interview](https://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
-- [01/10/2011] How to rock a system design interview](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+- [[14/02/2016] Crack the System Design Interview](https://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
+- [[01/10/2011] How to rock a system design interview](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 
 ## Practice
 - [Publishing with Apache Kafka at The New York Times](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times)
@@ -37,7 +38,7 @@
 - [An Architectural overview of the new GO-JEK rider app](https://blog.gojekengineering.com/an-architectural-overview-of-the-new-go-jek-rider-app-bb1dbd174323)
 - [The AdStage Migration From Heroku To AWS](http://highscalability.com/blog/2017/5/1/the-adstage-migration-from-heroku-to-aws.html)
 - [Scaling ipify to 30 billions and beyond (Go wins against NodeJS)](https://blog.heroku.com/scaling-ipify-to-30-billion-and-beyond)
-- [The Uber Engineering Tech Stack, Part I](The Foundation](https://eng.uber.com/tech-stack-part-one/
+- [The Uber Engineering Tech Stack, Part I - The Foundation](https://eng.uber.com/tech-stack-part-one/
 Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Cloud-native architecture with serverless microservices - the Smart Parking story](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html)
 - [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
@@ -45,7 +46,6 @@ Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Scaling Like a Boss with Presto (problems with AWS Redshift)](https://engineering.grab.com/scaling-like-a-boss-with-presto)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 - [How We Built Reddit r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
-- [Web Scalability 101](Database và Microservices](https://techtalk.vn/blog/posts/web-scalability-101-database-va-microservices)
 - [How to design Youtube](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
 - [How Urban Airship Scaled To 2.5 Billion Notifications During The U.S. Election](http://highscalability.com/blog/2016/11/14/how-urban-airship-scaled-to-25-billion-notifications-during.html)
 - [How Facebook Live Streams To 800,000 Simultaneous Viewers](http://highscalability.com/blog/2016/6/27/how-facebook-live-streams-to-800000-simultaneous-viewers.html)
