@@ -28,11 +28,11 @@
 - [[ - ] CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://youtu.be/-W9F__D3oY4)
 - [[20/09/2017] Web Scalability 101 - Database và Microservices](https://techtalk.vn/blog/posts/web-scalability-101-database-va-microservices)
 
-## Interview
+### Interview
 - [[14/02/2016] Crack the System Design Interview](https://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
 - [[01/10/2011] How to rock a system design interview](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 
-## Practice
+### Practice
 - [Publishing with Apache Kafka at The New York Times](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times)
 - [Dubsmash - Scaling To 200 Million Users With 3 Engineers](https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers)
 - [An Architectural overview of the new GO-JEK rider app](https://blog.gojekengineering.com/an-architectural-overview-of-the-new-go-jek-rider-app-bb1dbd174323)
