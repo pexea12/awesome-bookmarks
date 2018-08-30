@@ -38,8 +38,8 @@
 - [An Architectural overview of the new GO-JEK rider app](https://blog.gojekengineering.com/an-architectural-overview-of-the-new-go-jek-rider-app-bb1dbd174323)
 - [The AdStage Migration From Heroku To AWS](http://highscalability.com/blog/2017/5/1/the-adstage-migration-from-heroku-to-aws.html)
 - [Scaling ipify to 30 billions and beyond (Go wins against NodeJS)](https://blog.heroku.com/scaling-ipify-to-30-billion-and-beyond)
-- [The Uber Engineering Tech Stack, Part I - The Foundation](https://eng.uber.com/tech-stack-part-one/
-Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [The Uber Engineering Tech Stack, Part I - The Foundation](https://eng.uber.com/tech-stack-part-one/)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Cloud-native architecture with serverless microservices - the Smart Parking story](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html)
 - [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 - [View Counting at Reddit](https://redditblog.com/2017/05/24/view-counting-at-reddit/)
